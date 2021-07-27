@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/Fury Road By HeatleyBros (Loop Version).mp3-55bd08237ace54b277c0efb3d3dded53.mp3str"
+
+[deps]
+
+source_file="res://addons/Fury Road By HeatleyBros (Loop Version).mp3"
+dest_files=[ "res://.import/Fury Road By HeatleyBros (Loop Version).mp3-55bd08237ace54b277c0efb3d3dded53.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0
